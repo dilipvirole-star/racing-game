@@ -1,0 +1,39 @@
+# This is a comment
+# Ignore all .class files
+Library/
+Temp/
+obj/
+Bin/
+.vs/
+*.csproj
+*.sln
+*.userprefs
+*.pidb
+.DS_Store
+*.log
+Logs/
+UserSettings/
+*.asset
+*.prefab
+*.meta
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+
+# Visual Studio cache/options
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# IDE Settings
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
